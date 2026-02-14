@@ -1,4 +1,4 @@
-https://www.loom.com/share/868a6a4f4e8949819c01edf31b5989d6
+https://www.loom.com/share/d1a780b78eb44bb58a0fe3c7db27ed90
 # Creating-a-AWS-Virtual-Machine
 A simple, step-by-step guide to creating a Virtual Machine (EC2 instance) in AWS. This repository covers launching an instance, selecting an operating system, choosing an instance type, and creating a key pair—using default network and storage settings. Ideal for beginners learning AWS and cloud fundamentals.
 This guide walks you through creating a Virtual Machine (EC2 instance) in **Amazon Web Services (AWS)** using the AWS Management Console.
